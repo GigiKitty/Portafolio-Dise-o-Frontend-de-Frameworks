@@ -20,6 +20,7 @@ import './Actividades/actividad9/arrays-desestructuracion.ts'
 import { getHeroById, getHeroByOwner } from './Actividades/actividad10/tarea-heroes-data.ts'
 import './Actividades/actividad11/promise.ts'
 import './Actividades/actividad12/fetch-api.ts';
+import './Actividades/actividad13/async-await.ts';
 
 
 const student: Student = {
